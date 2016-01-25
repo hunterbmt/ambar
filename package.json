@@ -1,0 +1,14 @@
+{
+  "name": "ambar",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.18.1",
+    "react-native-router-redux": "https://github.com/plougsgaard/react-native-router-redux.git",
+    "react-redux": "^3.1.0",
+    "redux": "^3.0.5"
+  }
+}
